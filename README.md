@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Neelam Rawat
+- 👀 I’m new to programming 
+- 🌱 I’m currently learning python 
+- 💞️ I’m grading up my skills rightnow
+- 📫 Reach me at nell07raw@gmail.com
